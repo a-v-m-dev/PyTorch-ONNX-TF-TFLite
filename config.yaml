@@ -1,0 +1,9 @@
+path: 'C:\Users\AJ\Desktop\yolov8\dataset' #dataset root dir
+train: train/images
+val: train/images
+test: train/images
+
+#Classes
+nc: 1  # Number of classes
+0: coin
+# names: ['1 Peso', '5 Pesos', '10 Pesos', '20 Pesos', '25 Cents', '5 Cents', '10 Cents']
